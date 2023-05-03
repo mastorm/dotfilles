@@ -1,0 +1,2 @@
+require("xeronik")
+print("hello")
