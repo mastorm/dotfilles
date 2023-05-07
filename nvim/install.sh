@@ -1,1 +1,1 @@
-ln -s $DOTFILES/nvim/config $XDG_CONFIG_HOME
+ln -s $DOTFILES/nvim/config $XDG_CONFIG_HOME/nvim
