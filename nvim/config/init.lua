@@ -1,2 +1,1 @@
 require("xeronik")
-print("hello")
